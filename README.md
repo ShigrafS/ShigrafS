@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShigrafS
 - 👀 I’m interested in Machine Learning and AI. I also have a strong inclination towards CyberSecurity.
-- 🌱 I’m currently learning Machine Learning libraries.
+- 🌱 I’m currently learning PyTorch.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
