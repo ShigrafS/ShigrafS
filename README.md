@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/shigrafs" target="blank"><img src="https://img.shields.io/twitter/follow/shigrafs?logo=twitter&style=for-the-badge" alt="shigrafs" /></a> </p>
 
-- 🔭 I’m currently working on **DApps**
+- 🔭 I’m currently working on **Text-To-Speech Models**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **MLOps & LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShigrafS](https://github.com/ShigrafS)
 
-- 💬 Ask me about **SciKit-Learn**
+- 💬 Ask me about **Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
