@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/ShigrafS/ShigrafS/blob/main/Images/BP.jpg)](https://github.com/ShigrafS)
 <h1 align="center">Hi 👋, I'm Shigraf Salik</h1>
-<h3 align="center">A driven Machine Learning and AI Engineer with a strong inclination towards cybersecurity!!!</h3>
+<h3 align="center">A Machine Learning and AI Engineer with a strong inclination towards cybersecurity!!!</h3>
 
 <p align="left"> <a href="https://twitter.com/shigrafs" target="blank"><img src="https://img.shields.io/twitter/follow/shigrafs?logo=twitter&style=for-the-badge" alt="shigrafs" /></a> </p>
 
