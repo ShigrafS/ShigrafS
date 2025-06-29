@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shigrafs" target="blank"><img src="https://img.shields.io/twitter/follow/shigrafs?logo=twitter&style=for-the-badge" alt="shigrafs" /></a> </p>
 
-- 🔭 I’m currently working on **Bioinformatics**
+- 🔭 I’m currently working on **!!!**
 
 - 🌱 I’m currently learning **MLOps & LLMs**
 
