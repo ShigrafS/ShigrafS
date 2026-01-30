@@ -10,9 +10,6 @@
 
 - 🌱 I’m currently learning **MLOps & LLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShigrafS](https://github.com/ShigrafS)
-
-- 💬 Ask me about **Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
