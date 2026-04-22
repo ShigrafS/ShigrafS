@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/shigrafs" target="blank"><img src="https://img.shields.io/twitter/follow/shigrafs?logo=twitter&style=for-the-badge" alt="shigrafs" /></a> </p>
 
-- 🔭 I’m currently working on **!!!**
+- 🔭 I’m currently working on  **[Sera](https://github.com/ShigrafS/Sera)** - the LLM based natural language Scheduler.
 
-- 🌱 I’m currently learning **MLOps & LLMs**
+- 🌱 I’m currently learning **motion-tracking & low-level programming**
 
 
 <h3 align="left">Connect with me:</h3>
