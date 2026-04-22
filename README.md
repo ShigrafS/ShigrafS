@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning **motion-tracking & low-level programming**
 
+## Current Projects
+
+- **[Sera](https://github.com/ShigrafS/Sera)** - the LLM based natural language Scheduler
+- **[WhisperStrip](https://github.com/ShigrafS/WhisperStrip)** - the lightweight trnaslucent Windows native software for persistant reminders
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
